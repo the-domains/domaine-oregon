@@ -1,4 +1,3 @@
-layout_spectrum: 0.5484012172091752
 typography_spectrum: 0.6856041976716369
 color:
   brandStrength: 0.38637395249679685
@@ -11,5 +10,7 @@ color:
     - '#CCCC52'
     - '#8FB359'
     - '#192B33'
+layout_spectrum: 0.5484012172091752
 name: Domaine Oregon
 title: Happenings
+description: ':)'
